@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+header{
+    background-color:  #00C322;
+    padding: 20px;
+}
+
+header a{
+    color: white;
+    background-color: #FF1300;
+    text-decoration: none;
+    border-radius: 150px;
+    padding: 15px ;
+    margin: 100px;
+    font-size: 20px;
+}
+
+a{
+    color: white;
+    background-color: #FF1300;
+    
+    border-radius: 20px;
+}
+
+footer{
+   background-color: #00C322;
+   padding: 30px;
+}
+
+header p{
+    font-size: 20px;
+}
+
+img{
+  
+}
+
+td{
+    width: 180px;
+}
+
+footer p{
+   font-size: 20px;
+}
